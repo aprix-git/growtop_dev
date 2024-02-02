@@ -1,0 +1,10 @@
+.with_geo {
+  background-size: 25px;
+  background-position: -4px 1px;
+}
+
+footer {
+  .with_geo {
+    background-position: -6px 1px;
+  }
+}

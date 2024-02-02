@@ -1,0 +1,37 @@
+<select name="" id="pagelist" onchange="window.location.href = this.options[this.selectedIndex].value">
+    <option value="">Выбрать</option>
+    <option value="/pages/articles.php">acticles</option>
+    <option value="cart.html">cart</option>
+    <option value="cart2.html">cart2</option>
+    <option value="cart2_a.html">cart2_a</option>
+    <option value="cart3.html">cart3</option>
+    <option value="cart3_a.html">cart3_a</option>
+    <option value="cart4.html">cart4</option>
+    <option value="cart4_a.html">cart4_a</option>
+    <option value="cart5.html">cart5</option>
+    <option value="cart6.html">cart6</option>
+    <option value="catalog2.html">catalog2</option>
+    <option value="contacts.html">contacts</option>
+    <option value="favorite.html">favorite</option>
+    <option value="favorite0.html">favorite0</option>
+    <option value="index.html">index</option>
+    <option value="lk.html">lk</option>
+    <option value="manufacturer_cart.html">manufacturer_cart</option>
+    <option value="manufacturers.html">manufacturers</option>
+    <option value="mob_articles.html">mob_articles</option>
+    <option value="mob_favorite.html">mob_favorite</option>
+    <option value="mob_favorite_empty.html">mob_favorite_empty</option>
+    <option value="mob_index.html">mob_index</option>
+    <option value="mob_product.html">mob_product</option>
+    <option value="mob_product_true.html">mob_product_true</option>
+    <option value="my_data.html">my_data</option>
+    <option value="my_data_a.html">my_data_a</option>
+    <option value="orders.html">orders</option>
+    <option value="product.html">product</option>
+    <option value="product2.html">product2</option>
+    <option value="product3.html">product3</option>
+    <option value="products.html">products</option>
+    <option value="products2.html">products2</option>
+    <option value="products3.html">products3</option>
+    <option value="search.html">search</option>
+</select>

@@ -1,0 +1,21 @@
+{
+  "name": "source",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "watch": "tsc && vite build --watch",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "terser": "^5.19.4",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.1",
+    "swiper": "^11.0.4"
+  }
+}
